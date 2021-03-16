@@ -17,7 +17,6 @@ For instance the API should be able to take an unordered set of boarding cards, 
 The list should be defined in a format that's compatible with the input format. The API is to be an internal PHP API so it will only communicate with other parts of a PHP application, not server to server, nor server to client. Use PHP-doc to document the input and output your API accepts / returns.
 
 ### Requirements
-No 3rd party frameworks are allowed apart from for testing. Start all code from scratch.
 1. Provide a README file containing clear, simple instructions upon how to execute the code and tests.
 2. If anything needs clarification which is not detailed here, make an assumption and note this in the README file.
  3. Be prepared to suggest to us how we could extend the code towards new types of transportation, which might have di erent characteristics.
